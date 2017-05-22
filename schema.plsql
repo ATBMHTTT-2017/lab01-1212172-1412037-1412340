@@ -89,17 +89,17 @@ INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P003','
 INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P004','Phong Ðoi Ngoai','nv004','CN001');
 INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P005','Phong Nhân Su','nv005','CN001');
 --
-INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P001','Phong IT','nv001','CN002');
-INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P002','Phong Ke Toan','nv002','CN002');
-INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P003','Phong Ke Hoach','nv003','CN002');
-INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P004','Phong Ðoi Ngoai','nv004','CN002');
-INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P005','Phong Nhân Su','nv005','CN002');
+INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P006','Phong IT','nv001','CN002');
+INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P007','Phong Ke Toan','nv002','CN002');
+INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P008','Phong Ke Hoach','nv003','CN002');
+INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P009','Phong Ðoi Ngoai','nv004','CN002');
+INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P010','Phong Nhân Su','nv005','CN002');
 --
-INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P001','Phong IT','nv001','CN003');
-INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P002','Phong Ke Toan','nv002','CN003');
-INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P003','Phong Ke Hoach','nv003','CN003');
-INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P004','Phong Ðoi Ngoai','nv004','CN003');
-INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P005','Phong Nhân Su','nv005','CN003');
+INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P011','Phong IT','nv001','CN003');
+INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P012','Phong Ke Toan','nv002','CN003');
+INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P013','Phong Ke Hoach','nv003','CN003');
+INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P014','Phong Ðoi Ngoai','nv004','CN003');
+INSERT INTO PhongBan  (maPhong, tenPhong, truongPhong,chiNhanh) VALUES ('P015','Phong Nhân Su','nv005','CN003');
 
 INSERT INTO ChiNhanh  (maCN, tenCN, truongChiNhanh) VALUES ('CN001','TP HCM','nv006');
 INSERT INTO ChiNhanh  (maCN, tenCN, truongChiNhanh) VALUES ('CN002','Ha Noi','nv007');
