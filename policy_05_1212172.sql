@@ -4,7 +4,6 @@ chi_Nhanh VARCHAR2)
 AS
   n_b NUMBER;
 BEGIN
-  v_hopLe := FALSE;
   IF (ma_Phong IS NOT NULL) THEN
         BEGIN
          IF( EXISTS ( SELECT maPhong FROM SYS.PhongBan WHERE maPhong = ma_Phong))THEN 
