@@ -8,7 +8,7 @@ AS
   n_b NUMBER;
 BEGIN
   user:= SYS_CONTEXT('userenv','SESSION_USER');
-  SELECT COUNT(*) INTO n_b FROM SYS.PhongBan WHERE user = truongPhong;
+  SELECT COUNT(*) INTO n_b FROM SYS.PhongBan WHERE truongPhong = user;
   IF(n_b > 0) THEN
     RETURN '';
   ELSE
