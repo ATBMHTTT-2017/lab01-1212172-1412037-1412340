@@ -1,4 +1,5 @@
 --Tao role cho cac chuc vu va cac Procedure tu dong cap cac role cho cac nhanh vien phu hop
+CREATE ROLE rGiamDoc ;--Role GiamDoc
 CREATE ROLE rNhanVien ;--Role Nhan Vien
 CREATE OR REPLACE PROCEDURE GrantRoleNhanVien 
 AS
